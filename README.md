@@ -1,3 +1,3 @@
 # FlexBox-img
 
-![print](../FlexBox-img/img/screen.png);
+![print](../master/img/screen.png);
